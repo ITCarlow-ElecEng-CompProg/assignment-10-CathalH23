@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511188596 source:f:\2nd year\computer prog\lab exercise\lab exercise 10\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
